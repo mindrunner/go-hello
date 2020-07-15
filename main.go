@@ -5,7 +5,7 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/auth0/go-hello/internal/service"
+	"github.com/mindrunner/go-hello/internal/service"
 )
 
 type HelloServer interface {
